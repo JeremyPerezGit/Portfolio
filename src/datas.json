@@ -1,0 +1,17 @@
+[
+	{ "firstname": "Jeremy" },
+	{ "lastname": "Perez" },
+	{ "age": 32 },
+	{ "img": "src/assets/img/jpbw.png" },
+	{
+		"name": "Cookie Clicker ",
+		"url": "https://wildcodeschool-2024-09.github.io/JS-RemoteFR-Vendangeurs-P1-Tic-Tac-Toc/"
+	},
+	{
+		"name": "Solo Rush 1",
+		"url": "https://jeremyperezgit.github.io/SoloRush1/"
+	},
+	{ "contact": "jeremy.perez.web@gmail.com" },
+	{ "github": "https://github.com/JeremyPerezGit" },
+	{ "backgroundImage": "src/assets/img/bgbw.jpg" }
+]
